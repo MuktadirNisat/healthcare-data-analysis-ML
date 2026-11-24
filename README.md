@@ -18,7 +18,7 @@ healthcare-data-cleaning/
 │   └── hospital_data_unclean.csv        # Raw dataset (55,505 rows, 15 columns)
 ├── scripts/
 │   └── clean_data.py                    # Modular Python data cleaning script
-├── healthcare-analytics.ipynb           # Full EDA, Hypothesis Testing & ML Notebook
+├── healthcare_data_analysis.ipynb           # Full EDA, Hypothesis Testing & ML Notebook
 ├── eda_dashboard.png                    # Multi-panel Exploratory Data Analysis visual
 ├── ml_evaluation.png                    # Confusion Matrix & Feature Importance plot
 ├── requirements.txt                     # Project dependencies
